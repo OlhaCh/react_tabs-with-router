@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss","webpack://src/components/Tabs/Tabs.css"],"names":[],"mappings":"AAAA,OACE,YAAa,CCDf,UACE,kBACF","file":"main.06d01c50.chunk.css","sourcesContent":["iframe {\r\n  display: none;\r\n}\r\n",".is-boxed {\n  margin-bottom: 24px;\n}\n"]}
